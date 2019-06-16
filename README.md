@@ -2,9 +2,6 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
-# Test the project 
- 
-
  # OpenSea Storefront 
  *  ``` https://rinkeby.opensea.io/assets/unidentifiedcontractv57 ```
 
