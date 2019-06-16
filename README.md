@@ -11,8 +11,8 @@ The capstone will build upon the knowledge you have gained in the course in orde
  * To deploy the contract ```truffle migrate --reset --network <name_of_the_network> ```
  * To test the contract ``` truffle test ``` This will run all the test files.
 
- #OpenSea Storefront 
-*  ``` https://rinkeby.opensea.io/assets/unidentifiedcontractv57 ```
+ # OpenSea Storefront 
+ *  ``` https://rinkeby.opensea.io/assets/unidentifiedcontractv57 ```
 
 # Command 
 For generating proof 
@@ -27,7 +27,7 @@ For generating proof
 # Address of deployed contract 
  *   The contract with zokrates integeration is deployed on Rinkeby network.
  *   SolnSquareVerifier.sol contract address ```0x607800658a2328D9a808983A8087a6A9eA9186b5```
- *   SolnSquareVerifier Contract ABI : [a link](https://github.com/hanare/RealEstate/blob/master/SolnSquareVerifier.abi)
+ *   [SolnSquareVerifier Contract ABI](https://github.com/hanare/RealEstate/blob/master/SolnSquareVerifier.abi)
 
 # Project Resources
 
